@@ -1002,10 +1002,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/busboy@^1.3.0":
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@types/busboy/-/busboy-1.3.0.tgz#c298cb392d0172f1171333d5cb71d60f63b13a38"
-  integrity sha512-Qx7ehfGO/k2yiTVpRIVIu16oVgbJpG65WLjEhbNSoTPdQEoRCorFUKHsSznyHmIkdvzOg2W3JWeewCmfSwcgeA==
+"@types/busboy@^1.5.2":
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/@types/busboy/-/busboy-1.5.2.tgz#ba9e4f21f1687e25def6c0fe044c7ea5b47dd2ef"
+  integrity sha512-OYkRy+dkQWwoGch3oyQ9UE08PO1jSte7aBtPemLXAP9evwh7fNAfikWdB2VMeP8syY3H/XvGq+pB38dDvTe06g==
   dependencies:
     "@types/node" "*"
 
